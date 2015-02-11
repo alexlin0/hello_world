@@ -19,7 +19,7 @@ Fruit   | Color
 ------- | -----
 Apple   | Red
 Banana  | Yellow
-Cocanut | Brown
+Coconut | Brown
 Grape   | Purple
 
 ### About Trick
