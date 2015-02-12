@@ -21,6 +21,7 @@ Apple   | Red
 Banana  | Yellow
 Coconut | Brown
 Grape   | Purple
+Lemon   | Yellow
 
 ### About Trick
 Trick is developed on RHEL 6 and the free alternatives. (We use Scientific Linux)
